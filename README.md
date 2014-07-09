@@ -9,6 +9,6 @@ As it is stated in this link http://lh3lh3.users.sourceforge.net/reb.shtml , oni
 Release Website: Gta-Mp.ro								           
 Release Date: 10/07/2014									             
 Credits: 
-*	-maddinat0r (Got the SDK from his github)	
- *	-Incognito (I learned a lot from his github)	   
+*	-maddinat0r (Got the SDK from his github)
+*	-Incognito (I learned a lot from his github)
 *	-K.Kosako (Author of Oniguruma library)
