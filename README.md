@@ -3,7 +3,7 @@ Regular Expression Plugin
 
 This is a basic plugin based on Oniguruma library that allows the use of regular expressions in samp scripting.
 
-As it is stated in this link http://lh3lh3.users.sourceforge.net/reb.shtml , onig is the fastest regex library at the moment. Even so, you must consider that it uses an BT-based alogrithm, so passing an non appropriate syntax, could take a lot of time to procces on big strings. (Personally, i never encountered this problem).
+As it is stated in this link http://lh3lh3.users.sourceforge.net/reb.shtml , onig is the fastest regex library at the moment. Even so, you must consider that it uses an BT-based alogrithm, so passing an non appropriate syntax, could take a lot of time to process on big strings. (Personally, i never encountered this problem).
 
 
 Release Website: Gta-Mp.ro								           
