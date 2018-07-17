@@ -1,0 +1,16 @@
+{
+	"user": "Cezear",
+	"repo": "Regular-Expressions-Plugin",
+	"resources": [ 
+		{
+			"name": "Regular-Expressions-Plugin-(.*).zip",
+			"platform": "windows",
+			"archive": true,
+			"includes": ["pawno/include"],
+			"plugins": ["plugins/"],
+			"files": {
+				"onig.dll": "onig.dll"
+			}
+		}
+ 	]
+}
