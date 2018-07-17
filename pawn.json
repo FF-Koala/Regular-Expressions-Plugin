@@ -3,7 +3,7 @@
 	"repo": "Regular-Expressions-Plugin",
 	"resources": [ 
 		{
-			"name": "Regular-Expressions-Plugin-0.2.zip",
+			"name": "regex-(.*)-win.rar",
 			"platform": "windows",
 			"archive": true,
 			"includes": ["pawno/include"],
@@ -11,9 +11,12 @@
 			"files": {
 				"onig.dll": "onig.dll"
 			}
+		},
+		{
+			"name": "regex-(.*)-linux.tar.gz",
+			"platform": "linux",
+			"archive": true,
+			"plugins": "plugins/libRegEx_static.so"
 		}
-	 ],
-	 "runtime": {
-		 "plugins": ["Cezear/Regular-Expressions-Plugin"]
-	 }
+ 	]
 }
