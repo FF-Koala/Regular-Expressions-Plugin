@@ -13,10 +13,13 @@
 			}
 		},
 		{
-			"name": "regex-(.*)-linux.tar.gz",
+			"name": "regex-(.*)-linux.tar.gz$",
 			"platform": "linux",
 			"archive": true,
 			"plugins": ["plugins/libRegEx_static.so"]
 		}
- 	]
+	],
+	"runtime": {
+		"plugins": ["Cezear/Regular-Expressions-Plugin"]
+	}
 }
