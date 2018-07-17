@@ -16,7 +16,7 @@
 			"name": "regex-(.*)-linux.tar.gz",
 			"platform": "linux",
 			"archive": true,
-			"plugins": "plugins/libRegEx_static.so"
+			"plugins": ["plugins/libRegEx_static.so"]
 		}
  	]
 }
