@@ -3,7 +3,7 @@
 	"repo": "Regular-Expressions-Plugin",
 	"resources": [ 
 		{
-			"name": "Regular-Expressions-Plugin-(.*).zip",
+			"name": "Regular-Expressions-Plugin-0.2.zip",
 			"platform": "windows",
 			"archive": true,
 			"includes": ["pawno/include"],
