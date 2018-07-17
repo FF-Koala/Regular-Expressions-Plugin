@@ -7,10 +7,13 @@
 			"platform": "windows",
 			"archive": true,
 			"includes": ["pawno/include"],
-			"plugins": ["plugins/"],
+			"plugins": ["plugins/libRegEx.dll"],
 			"files": {
 				"onig.dll": "onig.dll"
 			}
 		}
- 	]
+	 ],
+	 "runtime": {
+		 "plugins": ["Cezear/Regular-Expressions-Plugin"]
+	 }
 }
