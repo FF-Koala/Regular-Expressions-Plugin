@@ -18,8 +18,5 @@
 			"archive": true,
 			"plugins": ["plugins/libRegEx_static.so"]
 		}
-	],
-	"runtime": {
-		"plugins": ["Cezear/Regular-Expressions-Plugin"]
-	}
+	]
 }
