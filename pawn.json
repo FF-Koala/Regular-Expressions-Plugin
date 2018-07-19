@@ -1,0 +1,22 @@
+{
+	"user": "Cezear",
+	"repo": "Regular-Expressions-Plugin",
+	"resources": [ 
+		{
+			"name": "regex-(.*)-win.zip$",
+			"platform": "windows",
+			"archive": true,
+			"includes": ["pawno/include"],
+			"plugins": ["plugins/libRegEx.dll"],
+			"files": {
+				"onig.dll": "onig.dll"
+			}
+		},
+		{
+			"name": "regex-(.*)-linux.tar.gz$",
+			"platform": "linux",
+			"archive": true,
+			"plugins": ["plugins/libRegEx_static.so"]
+		}
+	]
+}
